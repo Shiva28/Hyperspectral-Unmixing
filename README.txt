@@ -37,5 +37,4 @@ As an output you will get two graphs and some console output. Console output wil
 "NMF_tools.py" contains the helper functions which are used in "NMF_run.py". It is necessary to run the NMF_run.py file for first time. After running, "data" folder will contain the list of abundance matrices, endmembers matrices, errors, and time taken all for each outer iteration so that you don't have to run the whole code to get the matrices again. You can then directly generate graphs by running "plot_generate.py".
 
 
-GITHUB: https://github.com/DhyanilMehta/SC505_Hyperspectral_Unmixing_Project.git
 
